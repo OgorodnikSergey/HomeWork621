@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork621</string>
+    <string name="picture">Picture</string>
+    <string name="buttonBack">НАЗАД</string>
+    <string name="buttonFront">ВПЕРЕД</string>
+    <string name="link">http://myfile.org/%1$d</string>
+</resources>
